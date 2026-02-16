@@ -12,3 +12,18 @@ The objective of this project is not industrial performance, but conceptual rigo
 - `/docs` — Technical documentation and design notes
 - `/papers` — Formal mathematical specifications and research write-ups
 
+- ## Development Roadmap
+
+- Phase 0 — Vision and System Design
+- Phase 1 — Mathematical Specification
+- Phase 2 — Core Engine Implementation
+- Phase 3 — Experimental Validation
+- Phase 4 — Research-Style Paper
+
+- ## Current Status
+
+Phase: 0 — Vision Drafting  
+Version: v0.1
+
+
+
