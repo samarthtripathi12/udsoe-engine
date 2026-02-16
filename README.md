@@ -25,5 +25,10 @@ The objective of this project is not industrial performance, but conceptual rigo
 Phase: 0 — Vision Drafting  
 Version: v0.1
 
+## Papers
+
+- [Vision Document v1](papers/Vision_v1.pdf) — Phase 0: Project vision and conceptual design
+
+
 
 
